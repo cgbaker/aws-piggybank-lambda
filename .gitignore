@@ -3,6 +3,7 @@ testlogs
 project/project
 project/target
 target
+env.sh
 .history
 dist
 /.idea
